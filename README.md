@@ -41,3 +41,4 @@ Adding features like remote device configuration and firmware updates.
 Developing a mobile app for real-time data access and alerts.
 Expanding the system to monitor other air pollutants, such as ozone and nitrogen dioxide.
 By combining readily available hardware, software, and cloud services, this project can be a valuable tool for individuals, communities, and researchers to monitor and understand local air quality.
+# output :https://github.com/aparajithakolluri/BUILD-A-DEVICE-THAT-MONITORS-AIR-QUALITY-E.G.-PM2.5-CO2-LEVELS-AND-DISPLAYS-THE-DATA-/issues/1#issue-2811355633
